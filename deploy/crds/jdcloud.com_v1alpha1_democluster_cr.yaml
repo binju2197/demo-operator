@@ -1,0 +1,7 @@
+apiVersion: jdcloud.com/v1alpha1
+kind: DemoCluster
+metadata:
+  name: example-democluster
+spec:
+  # Add fields here
+  size: 3
